@@ -10,8 +10,8 @@ import org.junit.Test;
 
 import Model.RomanNumber;
 
-public class Kata1 {
-	
+public class TestsforRomanNumber {
+	//For Roman Numbers
 	@Test
 	public void WhenAninteger1isConvertedToRomanNumberThenItShouldBeconvertedToI() {
 	   	RomanNumber roman=new RomanNumber();
